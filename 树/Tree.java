@@ -2,7 +2,7 @@ package tree;
 /**
  * 
  * @author chy
- * purpose:数对象的构造
+ * purpose:树对象的构造
  *
  */
 public class Tree {
