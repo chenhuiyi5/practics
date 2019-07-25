@@ -1,5 +1,10 @@
 package tree;
-
+/**
+ * 
+ * @author chy
+ * purpose:数对象的构造
+ *
+ */
 public class Tree {
 	private String root;
 	private Tree lCrild;
